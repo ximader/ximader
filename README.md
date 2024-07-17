@@ -3,7 +3,6 @@
 
 - 🌱 Machine learning / Robotics / Computer vision
 - :bulb: Skills: Python / Jupyter / PyTorch / SQL / C#
-- 📫 My telegram: @ximader 
 
 <!--
 **ximader/ximader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
